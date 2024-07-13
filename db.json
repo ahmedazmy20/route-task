@@ -1,0 +1,63 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name": "Ahmed azmy"
+        },
+        {
+            "id": 2,
+            "name": "Aya Elsayed"
+        },
+        {
+            "id": 3,
+            "name": "ali mohamed"
+        },
+        {
+            "id": 4,
+            "name": "saad ashraf"
+        }
+
+    ],
+    "transactions": [
+        {
+            "customerId": 1,
+            "date": "2023-07-10",
+            "amount": 200
+        },
+        {
+            "customerId": 1,
+            "date": "2023-07-11",
+            "amount": 150
+        },
+        {
+            "customerId": 2,
+            "date": "2023-07-10",
+            "amount": 300
+        },
+        {
+            "customerId": 2,
+            "date": "2023-07-11",
+            "amount": 400
+        },
+        {
+            "customerId": 3,
+            "date": "2023-07-11",
+            "amount": 300
+        },
+        {
+            "customerId": 3,
+            "date": "2023-07-12",
+            "amount": 400
+        },
+        {
+            "customerId": 4,
+            "date": "2023-05-5",
+            "amount": 300
+        },
+        {
+            "customerId": 4,
+            "date": "2023-07-3",
+            "amount": 400
+        }
+    ]
+}
